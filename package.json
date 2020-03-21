@@ -6,12 +6,9 @@
   "keywords": [
     "gatsby"
   ],
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "git@github.com:jhamPac/british-racing-green.git"
   },
   "license": "MIT",
   "author": "jhamPac <cloud@kevia.me>",

@@ -1,10 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
 
-import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
-
-const IndexPage = () => <di>British Racing Green</di>
-
-export default IndexPage
+export default function LandingPage(props) {
+    return <div>British Racing Green</div>
+}

@@ -1,9 +1,16 @@
 import React from "react"
+import { Container, Nav } from "../components/container"
 
 export default function LandingPage(props) {
     return (
-        <div>
-            <h1>British Racing Green</h1>
-        </div>
+        <Container>
+            <div>bbbbbbb</div>
+            <div>asdfasfasdf</div>
+            <div>bbbbbbb</div>
+            <div>asdfasfasdf</div>
+            <div>bbbbbbb</div>
+            <div>asdfasfasdf</div>
+            <div>bbbbbbb</div>
+        </Container>
     )
 }

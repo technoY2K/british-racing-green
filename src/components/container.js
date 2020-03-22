@@ -5,26 +5,11 @@ export default function Container(props) {
     return <C>{props.children}</C>
 }
 
-const Nav = styled.nav`
-    grid-area: nav;
-`
-
-const Main = styled.div`
-    grid-area: main;
-`
-
-const Footer = styled.div`
-    grid-area: footer;
-`
-
 const C = styled.div`
+    height: 100vh;
+    width: 100vw;
+    padding: 15px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 25% 100px auto;
-    grid-template-areas:
-        nav nav nav nav
-        main main . main
-        footer footer footer footer;
 `
-
-export { Container, Nav }

@@ -11,5 +11,5 @@ const C = styled.div`
     padding: 15px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: 25% 100px auto;
+    grid-template-rows: 100px 25% auto;
 `

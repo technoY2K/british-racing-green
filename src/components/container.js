@@ -12,4 +12,24 @@ const C = styled.div`
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 100px 25% auto;
+    grid-template-areas:
+        "x x x x"
+        "y y . i"
+        ". . z z";
+
+    & > header {
+        grid-area: x;
+    }
+
+    & > main {
+        grid-area: y;
+    }
+
+    & > div {
+        grid-area: i;
+    }
+
+    & > footer {
+        grid-area: z;
+    }
 `

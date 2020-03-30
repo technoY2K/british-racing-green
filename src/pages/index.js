@@ -33,14 +33,8 @@ export default function X(props) {
             </Nav>
             <Main></Main>
             <Ad>
-                <a>START YOUR FREE TRIAL!</a>
+                <a href="/">START YOUR FREE TRIAL!</a>
             </Ad>
-                <p>info</p>
-                <p>info</p>
-                <p>info</p>
-                <p>info</p>
-                <p>info</p>
-            </aside>
             <Footer></Footer>
         </Container>
     )

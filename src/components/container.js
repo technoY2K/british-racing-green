@@ -11,25 +11,29 @@ const C = styled.div`
     padding: 15px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: 100px 25% auto;
+    grid-template-rows: 25% 40% auto;
     grid-template-areas:
-        "x x x x"
-        "y y . i"
-        ". . z z";
+        "n h h h"
+        "n y . a"
+        "n f f f";
 
     & > header {
-        grid-area: x;
+        grid-area: h;
+    }
+
+    & > nav {
+        grid-area: n;
     }
 
     & > main {
         grid-area: y;
     }
 
-    & > div {
-        grid-area: i;
+    & > aside {
+        grid-area: a;
     }
 
     & > footer {
-        grid-area: z;
+        grid-area: f;
     }
 `

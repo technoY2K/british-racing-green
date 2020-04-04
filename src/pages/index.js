@@ -10,9 +10,7 @@ export default function X(props) {
                 style={{ backgroundColor: "orange", height: `${100 - h}vh` }}
                 item
                 xs={8}
-            >
-                LEFT
-            </Grid>
+            ></Grid>
             <Grid
                 container
                 style={{ backgroundColor: "#004225" }}

@@ -128,7 +128,7 @@ export default function X(props) {
                                 becoming a better person everyday through
                                 discipline, Buddhism, Toaism and really any
                                 religion is what I think this thing called life
-                                is about.
+                                is all about.
                             </p>
                         </Pluto>
                     </Column>

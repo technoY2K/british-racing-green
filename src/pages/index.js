@@ -148,7 +148,7 @@ export default function X(props) {
                                 procrastinated hard AF. Alright take care and be
                                 safe.
                                 <figure>
-                                    <img src="https://media.giphy.com/media/XCm2bdvadvtur1Mr10/giphy.gif" />
+                                    <img src="https://media.giphy.com/media/3ornjPaUwr60cYjXuE/giphy.gif" />
                                 </figure>
                             </p>
                         </Mercury>

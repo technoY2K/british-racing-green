@@ -32,7 +32,7 @@ module.exports = {
             resolve: "gatsby-plugin-web-font-loader",
             options: {
                 google: {
-                    families: ["Share Tech Mono", "monospace"],
+                    families: ["PT Serif", "Playfair Display", "serif"],
                 },
             },
         },

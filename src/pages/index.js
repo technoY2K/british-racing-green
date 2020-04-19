@@ -1,29 +1,23 @@
 import React from "react"
-import Grid from "@material-ui/core/Grid"
-
-const h = window.innerHeight - document.documentElement.clientHeight
 
 export default function X(props) {
     return (
-        <Grid container>
-            <Grid
-                style={{ backgroundColor: "orange", height: `${100 - h}vh` }}
-                item
-                xs={8}
-            ></Grid>
-            <Grid
-                container
-                style={{ backgroundColor: "#004225" }}
-                item
-                xs={4}
-                justify="center"
-            >
-                <Grid item xs={8}>
-                    <ul>
-                        <li>Home</li>
-                    </ul>
-                </Grid>
-            </Grid>
-        </Grid>
+        <div>
+            <h1>Kevia's Street Journal</h1>
+            <div>
+                <p>
+                    Lorem Ipsum is simply dummy text of the printing and
+                    typesetting industry. Lorem Ipsum has been the industry's
+                    standard dummy text ever since the 1500s, when an unknown
+                    printer took a galley of type and scrambled it to make a
+                    type specimen book. It has survived not only five centuries,
+                    but also the leap into electronic typesetting, remaining
+                    essentially unchanged. It was popularised in the 1960s with
+                    the release of Letraset sheets containing Lorem Ipsum
+                    passages, and more recently with desktop publishing software
+                    like Aldus PageMaker including versions of Lorem Ipsum.
+                </p>
+            </div>
+        </div>
     )
 }

@@ -68,10 +68,11 @@ export default function X(props) {
                                 engineer. Notice I said *I WORK* as a software
                                 engineer as opposed to *I'AM* a software
                                 engineer. I say that because my work doesn't
-                                define me. Isn't weird how we always introduce
-                                ourselves by our professions instead of with our
-                                hobbies and interests? It might be hard for some
-                                of us tho. Our profession is our hobby 👨🏽‍💻.
+                                define me. Isn't it weird how we always
+                                introduce ourselves by our professions instead
+                                of with our hobbies and interests? It might be
+                                hard for some of us tho. Our profession is our
+                                hobby 👨🏽‍💻.
                             </p>
                         </Mercury>
                     </Column>

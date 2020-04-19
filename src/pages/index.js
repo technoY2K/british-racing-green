@@ -1,4 +1,4 @@
-import React, { Fragment } from "react"
+import React from "react"
 import Head from "../components/head"
 import SubHead from "../components/subhead"
 import Header from "../components/header"
@@ -30,6 +30,7 @@ export default function X(props) {
                             <p>
                                 <a
                                     href="https://twitter.com/keviaDotMe"
+                                    alt=""
                                     target="_blank"
                                 >
                                     Twitter
@@ -38,6 +39,7 @@ export default function X(props) {
                             <p>
                                 <a
                                     href="https://github.com/jhamPac"
+                                    alt=""
                                     target="_blank"
                                 >
                                     Github
@@ -46,6 +48,7 @@ export default function X(props) {
                             <p>
                                 <a
                                     href="https://stackoverflow.com/users/3276646/jhampac"
+                                    alt=""
                                     target="_blank"
                                 >
                                     Stackoverflow
@@ -54,6 +57,7 @@ export default function X(props) {
                             <p>
                                 <a
                                     href="https://www.linkedin.com/in/kevia-cloud"
+                                    alt=""
                                     target="_blank"
                                 >
                                     LinkedIn

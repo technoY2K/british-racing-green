@@ -1,9 +1,10 @@
 import React from "react"
+import Header from "../components/header"
 
 export default function X(props) {
     return (
         <div>
-            <h1>Kevia's Street Journal</h1>
+            <Header>Kevia's Street Journal</Header>
             <div>
                 <p>
                     Lorem Ipsum is simply dummy text of the printing and

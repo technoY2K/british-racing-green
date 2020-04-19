@@ -111,7 +111,7 @@ export default function X(props) {
                             <p>
                                 Outside of my "JOB JOB" I code in Golang and I
                                 work on distrubted web stuff with{" "}
-                                <a href="https://ipfs.io/">IPFS</a>.I'm really
+                                <a href="https://ipfs.io/">IPFS</a>. I'm really
                                 into blockchain, merkle trees (DAG),
                                 cryptography, WEB 3.0 and all of that jazz 🎷.
                             </p>

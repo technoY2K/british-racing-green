@@ -1,10 +1,13 @@
 import React from "react"
+import Container from "../components/container"
+import SubHead from "../components/subhead"
 import Header from "../components/header"
 
 export default function X(props) {
     return (
-        <div>
+        <Container>
             <Header>Kevia's Street Journal</Header>
+            <SubHead>Phoenix, AZ - 00:00:00, 3000</SubHead>
             <div>
                 <p>
                     Lorem Ipsum is simply dummy text of the printing and
@@ -19,6 +22,6 @@ export default function X(props) {
                     like Aldus PageMaker including versions of Lorem Ipsum.
                 </p>
             </div>
-        </div>
+        </Container>
     )
 }

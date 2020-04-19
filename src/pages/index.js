@@ -117,9 +117,17 @@ export default function X(props) {
                             </p>
                             <p>
                                 Outside of software engineering, I mainly like
-                                to read, walks through downtown PHX, 👀 fashion
-                                (I guess I'm kind of a sneaker head) and the
-                                journey to becoming a better person everyday.
+                                to read, walks through downtown PHX, 👀{" "}
+                                <a href="https://www.highsnobiety.com/">
+                                    "FASHION"
+                                </a>
+                                (I guess I'm kind of a sneaker head). Music wise
+                                I enjoy Techno, (EDM before it was EDM, like
+                                older Darude and Tiesto). The journey of
+                                becoming a better person everyday through
+                                discipline, Buddhism, Toaism and really any
+                                religion is what I think this thing called life
+                                is about.
                             </p>
                         </Pluto>
                     </Column>

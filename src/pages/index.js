@@ -93,29 +93,59 @@ export default function X(props) {
                     </Column>
                     <Column>
                         <Pluto>
-                            <span>Third</span>
-                            <span>This is the intro</span>
+                            <span>Things I'm working on</span>
+                            <span>work | hobby | leisure</span>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing
-                                and typesetting industry. Lorem Ipsum has been
-                                the industry's standard dummy text ever since
-                                the 1500s, when an unknown printer took a galley
-                                of type and scrambled it to make a type specimen
-                                book.
+                                For my "JOB JOB" I build and maintain control
+                                panel software for some big company worth a few
+                                1 X 10^9, no big deal 😏. It's all in React,
+                                webpack, front-end...blah blah. We are currently
+                                working on building a design system for the
+                                whole company using storybook as a monorepo with
+                                Lerna.
+                            </p>
+                            <p>
+                                Outside of my "JOB JOB" I code in Golang and I
+                                work on distrubted web stuff with{" "}
+                                <a href="https://ipfs.io/">IPFS</a>.I'm really
+                                into blockchain, merkle trees (DAG),
+                                cryptography, WEB 3.0 and all of that jazz 🎷.
+                            </p>
+                            <p>
+                                Outside of software engineering, I mainly like
+                                to read, walks through downtown PHX, 👀 fashion
+                                (I guess I'm kind of a sneaker head) and the
+                                journey to becoming a better person everyday.
                             </p>
                         </Pluto>
                     </Column>
                     <Column>
                         <Mercury>
-                            <span>Other Stuff</span>
-                            <span>This is the intro</span>
+                            <span>Built With</span>
+                            <span>All the tech stuff</span>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing
-                                and typesetting industry. Lorem Ipsum has been
-                                the industry's standard dummy text ever since
-                                the 1500s, when an unknown printer took a galley
-                                of type and scrambled it to make a type specimen
-                                book.
+                                This site was built using{" "}
+                                <a href="https://www.gatsbyjs.org/">Gatsby</a>.
+                                Gatsby is just a static site generator. Under
+                                the hood it's React and JavaScript with most of
+                                the build process taken care of by Gatsby. I
+                                styled it using styled components using only
+                                CSS, no framework for the layout (PHEW). The
+                                site is hosted using Github pages using my
+                                custom domain name.
+                            </p>
+                            <p>
+                                I built it during this crazy Covid-19 pandemic.
+                                This is absolutely surreal what is going on
+                                right now. What a crazy time we live in. The
+                                whole city is shutdown. Anyway I had some time
+                                on my hands so I just went ahead and built this.
+                                I always wanted to update my personal site but
+                                procrastinated hard AF. Alright take care and be
+                                safe.
+                                <figure>
+                                    <img src="https://media.giphy.com/media/XCm2bdvadvtur1Mr10/giphy.gif" />
+                                </figure>
                             </p>
                         </Mercury>
                     </Column>

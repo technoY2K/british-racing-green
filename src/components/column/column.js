@@ -12,6 +12,15 @@ const Col = styled.div`
         border-left: 1px solid #2f2f2f;
     }
 
+    figure {
+        margin: 0 0 20px;
+    }
+
+    figcaption {
+        font-family: sans-serif;
+        font-size: 13px;
+    }
+
     @media only all and (max-width: 1200px) {
         width: 32.5%;
         padding: 3%;

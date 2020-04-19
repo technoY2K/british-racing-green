@@ -4,7 +4,7 @@ import SubHead from "../components/subhead"
 import Header from "../components/header"
 import Content from "../components/content"
 import Column from "../components/column/column"
-import { Mercury } from "../components/column/formats"
+import { Mercury, Venus } from "../components/column/formats"
 
 export default function X(props) {
     return (
@@ -30,9 +30,9 @@ export default function X(props) {
                         </Mercury>
                     </Column>
                     <Column>
-                        <Mercury>
-                            <span>{`"Start Here"`}</span>
-                            <span>This is the intro</span>
+                        <Venus>
+                            <span>Yeezy Boost 350</span>
+                            <span>***</span>
                             <p>
                                 Lorem Ipsum is simply dummy text of the printing
                                 and typesetting industry. Lorem Ipsum has been
@@ -41,7 +41,13 @@ export default function X(props) {
                                 of type and scrambled it to make a type specimen
                                 book.
                             </p>
-                        </Mercury>
+                            <figure>
+                                <img src="https://i.pinimg.com/originals/ef/c0/00/efc0001ecad2dc93e4ed5e92f1ab814e.jpg" />
+                                <figcaption>
+                                    Yeezy Boost 350 "red stripe"
+                                </figcaption>
+                            </figure>
+                        </Venus>
                     </Column>
                     <Column>
                         <Mercury>

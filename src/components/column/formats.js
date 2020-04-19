@@ -112,15 +112,16 @@ const P = styled.div`
 
     span:nth-child(1) {
         font-weight: 400;
+        font-size: 42px;
+        text-transform: uppercase;
         font-style: italic;
-        font-size: 36px;
         box-sizing: border-box;
         padding: 10px 0 10px 0;
     }
 
     span:nth-child(2) {
-        font-weight: 700;
-        font-size: 15px;
+        font-weight: 400;
+        font-size: 18px;
         box-sizing: border-box;
         padding: 10px 0 10px 0;
 
@@ -143,3 +144,7 @@ const P = styled.div`
         }
     }
 `
+
+export function Pluto(props) {
+    return <P>{props.children}</P>
+}

@@ -4,7 +4,7 @@ import SubHead from "../components/subhead"
 import Header from "../components/header"
 import Content from "../components/content"
 import Column from "../components/column/column"
-import { Mercury, Venus } from "../components/column/formats"
+import { Mercury, Venus, Pluto } from "../components/column/formats"
 
 export default function X(props) {
     return (
@@ -50,8 +50,8 @@ export default function X(props) {
                         </Venus>
                     </Column>
                     <Column>
-                        <Mercury>
-                            <span>{`"Start Here"`}</span>
+                        <Pluto>
+                            <span>Third</span>
                             <span>This is the intro</span>
                             <p>
                                 Lorem Ipsum is simply dummy text of the printing
@@ -61,7 +61,7 @@ export default function X(props) {
                                 of type and scrambled it to make a type specimen
                                 book.
                             </p>
-                        </Mercury>
+                        </Pluto>
                     </Column>
                     <Column>
                         <Mercury>

@@ -14,7 +14,13 @@ export default function X(props) {
                 <SubHead>Phoenix, AZ - 00:00:00, 3000</SubHead>
             </Head>
             <Content>
-                <main>
+                <main
+                    style={{
+                        display: "flex",
+                        flexDirection: "row",
+                        flexWrap: "wrap",
+                    }}
+                >
                     <Column>
                         <Mercury>
                             <span>{`"Start Here"`}</span>
@@ -71,8 +77,8 @@ export default function X(props) {
                                 define me. Isn't it weird how we always
                                 introduce ourselves by our professions instead
                                 of with our hobbies and interests? It might be
-                                hard for some of us tho. Our profession is our
-                                hobby 👨🏽‍💻.
+                                hard for some of us though. Our profession is
+                                our hobby 👨🏽‍💻.
                             </p>
                         </Mercury>
                     </Column>
@@ -107,7 +113,7 @@ export default function X(props) {
                                 webpack, front-end...blah blah. We are currently
                                 working on building a design system for the
                                 whole company using storybook as a monorepo with
-                                Lerna.
+                                Lerna which has been really enjoyable.
                             </p>
                             <p>
                                 Outside of my "JOB JOB" I code in Golang and I

@@ -6,7 +6,7 @@ import Content from "../components/content"
 import Column from "../components/column/column"
 import { Mercury, Venus, Pluto } from "../components/column/formats"
 
-export default function X(props) {
+export default function X() {
     return (
         <>
             <Head>
@@ -74,11 +74,11 @@ export default function X(props) {
                                 engineer. Notice I said *I WORK* as a software
                                 engineer as opposed to *I'AM* a software
                                 engineer. I say that because my work doesn't
-                                define me. Isn't it weird how we always
-                                introduce ourselves by our professions instead
-                                of with our hobbies and interests? It might be
-                                hard for some of us though. Our profession is
-                                our hobby 👨🏽‍💻.
+                                define me but I never know how else to introduce
+                                myself. Isn't it weird how we always introduce
+                                ourselves by our professions instead of with our
+                                hobbies and interests? It might be hard for some
+                                of us though, our profession is our hobby 👨🏽‍💻.
                             </p>
                         </Mercury>
                     </Column>
@@ -109,11 +109,17 @@ export default function X(props) {
                             <p>
                                 For my "JOB JOB" I build and maintain control
                                 panel software for some big company worth a few
-                                1 X 10^9, no big deal 😏. It's all in React,
-                                webpack, front-end...blah blah. We are currently
-                                working on building a design system for the
-                                whole company using storybook as a monorepo with
-                                Lerna which has been really enjoyable.
+                                1 X 10^9, no big deal 😏. We're using React for
+                                the UI, a quasi custom implementation of flux
+                                for state management, webpack as our bundler all
+                                backed by a Perl API. We are currently working
+                                on building a unified component design system
+                                for consistency for teams to use across the
+                                whole company. The tech used to build the design
+                                system is storybook for development and Lerna to
+                                manage all the packages/components as a
+                                monorepo. Working on this design system has been
+                                very challenging but enjoyable.
                             </p>
                             <p>
                                 Outside of my "JOB JOB" I code in Golang and I
@@ -125,16 +131,22 @@ export default function X(props) {
                             <p>
                                 Outside of software engineering, I mainly like
                                 to read, walks through downtown PHX, 👀{" "}
-                                <a href="https://www.highsnobiety.com/">
+                                <a
+                                    href="https://www.highsnobiety.com/"
+                                    target="_blank"
+                                >
                                     "FASHION"
                                 </a>
                                 (I guess I'm kind of a sneaker head). Music wise
-                                I enjoy Techno, (EDM before it was EDM, like
-                                older Darude and Tiesto). The journey of
-                                becoming a better person everyday through
-                                discipline, Buddhism, Toaism and really any
-                                religion is what I think this thing called life
-                                is all about.
+                                I enjoy Techno and Progressive trance, (EDM
+                                before it was EDM, like older Darude and
+                                Tiesto).
+                            </p>
+                            <p>
+                                The journey of becoming a better person everyday
+                                through discipline, Buddhism, Toaism and really
+                                any religion is what I think this thing called
+                                life is all about.
                             </p>
                         </Pluto>
                     </Column>
@@ -160,8 +172,8 @@ export default function X(props) {
                                 whole city is shutdown. Anyway I had some time
                                 on my hands so I just went ahead and built this.
                                 I always wanted to update my personal site but
-                                procrastinated hard AF. Alright take care and be
-                                safe.
+                                procrastinated for a very long time. Alright
+                                take care and be safe.
                                 <figure>
                                     <img src="https://media.giphy.com/media/3ornjPaUwr60cYjXuE/giphy.gif" />
                                 </figure>

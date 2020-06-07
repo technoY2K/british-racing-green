@@ -9,28 +9,13 @@ import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
 export default function X() {
-    const { site } = useStaticQuery(
-        graphql`
-            query {
-                site {
-                    siteMetadata {
-                        image
-                        url
-                    }
-                }
-            }
-        `
-    )
-
-    console.log(site)
-
     return (
         <>
             <Helmet>
                 <meta name="image" property="og:image" content="/rGreen.png" />
                 <meta property="og:title" content="Kevia's Street Journal" />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content={`${site.siteMetadata.url}`} />
+                <meta property="og:url" content="https://kevia.me" />
                 <meta
                     property="og:description"
                     content="Learn more about me here."

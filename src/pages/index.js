@@ -5,10 +5,20 @@ import Header from "../components/header"
 import Content from "../components/content"
 import Column from "../components/column/column"
 import { Mercury, Venus, Pluto } from "../components/column/formats"
+import { Helmet } from "react-helmet"
+import britishGreenSrc from "../images/rGreen.png"
 
 export default function X() {
     return (
         <>
+            <Helmet>
+                <meta property="og:title" content="Kevia's Street Journal" />
+                <meta property="og:image" content={britishGreenSrc} />
+                <meta
+                    property="og:description"
+                    content="Learn more about me here."
+                />
+            </Helmet>
             <Head>
                 <Header>Kevia's Street Journal</Header>
                 <SubHead>Phoenix, AZ - 00:00:00, 3000</SubHead>
@@ -174,10 +184,10 @@ export default function X() {
                                 I always wanted to update my personal site but
                                 procrastinated for a very long time. Alright
                                 take care and be safe.
-                                <figure>
-                                    <img src="https://media.giphy.com/media/3ornjPaUwr60cYjXuE/giphy.gif" />
-                                </figure>
                             </p>
+                            <figure>
+                                <img src="https://media.giphy.com/media/3ornjPaUwr60cYjXuE/giphy.gif" />
+                            </figure>
                         </Mercury>
                     </Column>
                 </main>

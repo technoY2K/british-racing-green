@@ -6,7 +6,6 @@ import Content from "../components/content"
 import Column from "../components/column/column"
 import { Mercury, Venus, Pluto } from "../components/column/formats"
 import { Helmet } from "react-helmet"
-import { useStaticQuery, graphql } from "gatsby"
 
 export default function X() {
     return (

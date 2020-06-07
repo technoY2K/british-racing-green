@@ -6,20 +6,31 @@ import Content from "../components/content"
 import Column from "../components/column/column"
 import { Mercury, Venus, Pluto } from "../components/column/formats"
 import { Helmet } from "react-helmet"
-import britishGreenSrc from "../images/rGreen.png"
+import { useStaticQuery, graphql } from "gatsby"
 
 export default function X() {
+    const { site } = useStaticQuery(
+        graphql`
+            query {
+                site {
+                    siteMetadata {
+                        image
+                        url
+                    }
+                }
+            }
+        `
+    )
+
+    console.log(site)
+
     return (
         <>
             <Helmet>
-                <meta
-                    name="image"
-                    property="og:image"
-                    content={britishGreenSrc}
-                />
+                <meta name="image" property="og:image" content="/rGreen.png" />
                 <meta property="og:title" content="Kevia's Street Journal" />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://kevia.me" />
+                <meta property="og:url" content={`${site.siteMetadata.url}`} />
                 <meta
                     property="og:description"
                     content="Learn more about me here."

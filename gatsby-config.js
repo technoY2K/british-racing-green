@@ -4,6 +4,8 @@ module.exports = {
         title: `jhamPac™`,
         description: ``,
         author: `jhamPac`,
+        url: "https://kevia.me",
+        image: "./static/rGreen.png",
     },
     plugins: [
         `gatsby-plugin-react-helmet`,

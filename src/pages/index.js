@@ -12,8 +12,14 @@ export default function X() {
     return (
         <>
             <Helmet>
+                <meta
+                    name="image"
+                    property="og:image"
+                    content={britishGreenSrc}
+                />
                 <meta property="og:title" content="Kevia's Street Journal" />
-                <meta property="og:image" content={britishGreenSrc} />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="https://kevia.me" />
                 <meta
                     property="og:description"
                     content="Learn more about me here."

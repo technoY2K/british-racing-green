@@ -43,6 +43,7 @@ export default function X() {
                                     href="https://twitter.com/keviaDotMe"
                                     alt=""
                                     target="_blank"
+                                    rel="noreferrer"
                                 >
                                     Twitter
                                 </a>
@@ -52,6 +53,7 @@ export default function X() {
                                     href="https://github.com/jhamPac"
                                     alt=""
                                     target="_blank"
+                                    rel="noreferrer"
                                 >
                                     Github
                                 </a>
@@ -61,6 +63,7 @@ export default function X() {
                                     href="https://stackoverflow.com/users/3276646/jhampac"
                                     alt=""
                                     target="_blank"
+                                    rel="noreferrer"
                                 >
                                     Stackoverflow
                                 </a>
@@ -70,6 +73,7 @@ export default function X() {
                                     href="https://www.linkedin.com/in/kevia-cloud"
                                     alt=""
                                     target="_blank"
+                                    rel="noreferrer"
                                 >
                                     LinkedIn
                                 </a>
@@ -92,6 +96,7 @@ export default function X() {
                                         <a
                                             href="https://www.amazon.sg/Post-Corona-Opportunity-Scott-Galloway/dp/1787634817"
                                             target="_blank"
+                                            rel="noreferrer"
                                         >
                                             Post Corona
                                         </a>
@@ -100,6 +105,7 @@ export default function X() {
                                         <a
                                             href="https://g.co/kgs/KzBW3J"
                                             target="_blank"
+                                            rel="noreferrer"
                                         >
                                             Inner Engineering
                                         </a>
@@ -111,6 +117,7 @@ export default function X() {
                                         <a
                                             href="https://twitter.com/citygirltime?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
                                             target="_blank"
+                                            rel="noreferrer"
                                         >
                                             City Girl
                                         </a>
@@ -119,6 +126,7 @@ export default function X() {
                                         <a
                                             href="https://twitter.com/nervouststpilot?lang=en"
                                             target="_blank"
+                                            rel="noreferrer"
                                         >
                                             nervous_testpilot
                                         </a>
@@ -135,7 +143,11 @@ export default function X() {
                                 For my "JOB JOB" I build and maintain control
                                 panel software for some big company worth a few
                                 1 X 10^9, no big deal 😏 (just{" "}
-                                <a href="https://www.globenewswire.com/news-release/2020/11/02/2118350/0/en/Endurance-International-Group-Announces-Agreement-to-be-Acquired-by-Clearlake-Capital-Group-L-P-for-9-50-per-Share.html">
+                                <a
+                                    href="https://www.globenewswire.com/news-release/2020/11/02/2118350/0/en/Endurance-International-Group-Announces-Agreement-to-be-Acquired-by-Clearlake-Capital-Group-L-P-for-9-50-per-Share.html"
+                                    target="_blank"
+                                    rel="noreferrer"
+                                >
                                     aquired
                                 </a>
                                 ). We're using React for the UI, a quasi custom
@@ -152,8 +164,14 @@ export default function X() {
                             </p>
                             <p>
                                 I'm working on{" "}
-                                <a href="https://www.telebu.gg">telebugg</a>,
-                                The FRIENDLY softwaring engineering Q & A
+                                <a
+                                    href="https://www.telebu.gg"
+                                    target="_blank"
+                                    rel="noreferrer"
+                                >
+                                    telebugg
+                                </a>
+                                , The FRIENDLY softwaring engineering Q & A
                                 website for the 21st century. The project is
                                 still early Phase I v0.0.1
                             </p>
@@ -165,8 +183,14 @@ export default function X() {
                             <span>All the tech stuff</span>
                             <p>
                                 This site was built using{" "}
-                                <a href="https://www.gatsbyjs.org/">Gatsby</a>.
-                                Gatsby is just a static site generator. Under
+                                <a
+                                    href="https://www.gatsbyjs.org/"
+                                    target="_blank"
+                                    rel="noreferrer"
+                                >
+                                    Gatsby
+                                </a>
+                                . Gatsby is just a static site generator. Under
                                 the hood it's React and JavaScript with most of
                                 the build process taken care of by Gatsby. I
                                 styled it using styled components using only

@@ -102,6 +102,10 @@ export function Venus(props) {
 const P = styled.div`
     text-align: center;
 
+    a:visited {
+        color: red;
+    }
+
     span {
         text-align: center;
         line-height: normal;

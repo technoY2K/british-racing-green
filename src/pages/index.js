@@ -36,14 +36,8 @@ export default function X() {
                         <Mercury>
                             <span>{`"Start Here"`}</span>
                             <span>This is the intro</span>
-                            <p>
-                                Welcome to my random thoughts, aha moments,
-                                musings, rants and what not
-                            </p>
-                            <p>
-                                So any way. Let's start off with where else you
-                                can find me!
-                            </p>
+                            <p>Hello 👋</p>
+                            <p>🌐</p>
                             <p>
                                 <a
                                     href="https://twitter.com/keviaDotMe"
@@ -81,36 +75,56 @@ export default function X() {
                                 </a>
                             </p>
                             <p>
-                                Yeah, as you can see I work as a software
-                                engineer. Notice I said *I WORK* as a software
-                                engineer as opposed to *I'AM* a software
-                                engineer. I say that because my work doesn't
-                                define me but I never know how else to introduce
-                                myself. Isn't it weird how we always introduce
-                                ourselves by our professions instead of with our
-                                hobbies and interests? It might be hard for some
-                                of us though, our profession is our hobby 👨🏽‍💻.
+                                I think life is about the journey of becoming a
+                                better ☸️ person everyday through discipline and
+                                any Religion of your choosing 🙏.
                             </p>
                         </Mercury>
                     </Column>
                     <Column>
                         <Venus>
-                            <span>Yeezy Boost 350</span>
-                            <span>***</span>
+                            <span>Outside of Work</span>
+                            <span>*****</span>
                             <p>
-                                I rate them 3 out of 5 stars. The styling is
-                                amazing but they feel a little "socky" after a
-                                while. In terms of comfort the adidas ultra
-                                boost are by far the best. But you can't deny
-                                the profile of these shoes. Very innovative and
-                                what the kids say these days... COOL.
+                                <ul>
+                                    <h3>Reading</h3>
+                                    <li>
+                                        <a
+                                            href="https://www.amazon.sg/Post-Corona-Opportunity-Scott-Galloway/dp/1787634817"
+                                            target="_blank"
+                                        >
+                                            Post Corona
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="https://g.co/kgs/KzBW3J"
+                                            target="_blank"
+                                        >
+                                            Inner Engineering
+                                        </a>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <h3>Listening to</h3>
+                                    <li>
+                                        <a
+                                            href="https://twitter.com/citygirltime?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                                            target="_blank"
+                                        >
+                                            City Girl
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="https://twitter.com/nervouststpilot?lang=en"
+                                            target="_blank"
+                                        >
+                                            nervous_testpilot
+                                        </a>
+                                    </li>
+                                </ul>
                             </p>
-                            <figure>
-                                <img src="https://i.pinimg.com/originals/ef/c0/00/efc0001ecad2dc93e4ed5e92f1ab814e.jpg" />
-                                <figcaption>
-                                    Yeezy Boost 350 "red stripe"
-                                </figcaption>
-                            </figure>
                         </Venus>
                     </Column>
                     <Column>
@@ -120,44 +134,28 @@ export default function X() {
                             <p>
                                 For my "JOB JOB" I build and maintain control
                                 panel software for some big company worth a few
-                                1 X 10^9, no big deal 😏. We're using React for
-                                the UI, a quasi custom implementation of flux
-                                for state management, webpack as our bundler all
-                                backed by a Perl API. We are currently working
-                                on building a unified component design system
-                                for consistency for teams to use across the
-                                whole company. The tech used to build the design
-                                system is storybook for development and Lerna to
-                                manage all the packages/components as a
-                                monorepo. Working on this design system has been
-                                very challenging but enjoyable.
-                            </p>
-                            <p>
-                                Outside of my "JOB JOB" I code in Golang and I
-                                work on distrubted web stuff with{" "}
-                                <a href="https://ipfs.io/">IPFS</a>. I'm really
-                                into blockchain, merkle trees (DAG),
-                                cryptography, WEB 3.0 and all of that jazz 🎷.
-                            </p>
-                            <p>
-                                Outside of software engineering, I mainly like
-                                to read, walks through downtown PHX, 👀{" "}
-                                <a
-                                    href="https://www.highsnobiety.com/"
-                                    target="_blank"
-                                >
-                                    "FASHION"
+                                1 X 10^9, no big deal 😏 (just{" "}
+                                <a href="https://www.globenewswire.com/news-release/2020/11/02/2118350/0/en/Endurance-International-Group-Announces-Agreement-to-be-Acquired-by-Clearlake-Capital-Group-L-P-for-9-50-per-Share.html">
+                                    aquired
                                 </a>
-                                (I guess I'm kind of a sneaker head). Music wise
-                                I enjoy Techno and Progressive trance, (EDM
-                                before it was EDM, like older Darude and
-                                Tiesto).
+                                ). We're using React for the UI, a quasi custom
+                                implementation of flux for state management,
+                                webpack as our bundler all backed by a Perl API.
+                                We are currently working on building a unified
+                                component design system for consistency for
+                                teams to use across the whole company. The tech
+                                used to build the design system is storybook for
+                                development and Lerna to manage all the
+                                packages/components as a monorepo. Working on
+                                this design system has been very challenging but
+                                enjoyable.
                             </p>
                             <p>
-                                The journey of becoming a better person everyday
-                                through discipline, Buddhism, Toaism and really
-                                any religion is what I think this thing called
-                                life is all about.
+                                I'm working on{" "}
+                                <a href="https://www.telebu.gg">telebugg</a>,
+                                The FRIENDLY softwaring engineering Q & A
+                                website for the 21st century. The project is
+                                still early Phase I v0.0.1
                             </p>
                         </Pluto>
                     </Column>

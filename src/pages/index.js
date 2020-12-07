@@ -90,7 +90,7 @@ export default function X() {
                             <span>Outside of Work</span>
                             <span>*****</span>
                             <p>
-                                <ul>
+                                <ul style={{ listStyle: "none" }}>
                                     <h3>Reading</h3>
                                     <li>
                                         <a
@@ -111,7 +111,7 @@ export default function X() {
                                         </a>
                                     </li>
                                 </ul>
-                                <ul>
+                                <ul style={{ listStyle: "none" }}>
                                     <h3>Listening to</h3>
                                     <li>
                                         <a

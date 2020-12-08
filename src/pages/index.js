@@ -148,7 +148,7 @@ export default function X() {
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    aquired
+                                    acquired
                                 </a>
                                 ). We're using React for the UI, a quasi custom
                                 implementation of flux for state management,
@@ -195,8 +195,7 @@ export default function X() {
                                 the build process taken care of by Gatsby. I
                                 styled it using styled components using only
                                 CSS, no framework for the layout (PHEW). The
-                                site is hosted using Github pages using my
-                                custom domain name.
+                                site is hosted on Netlify.
                             </p>
                             <p>
                                 I built it during this crazy Covid-19 pandemic.

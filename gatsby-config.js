@@ -1,11 +1,12 @@
 module.exports = {
     siteMetadata: {
         pathPrefix: "/british-racing-green",
-        title: `jhamPac™`,
-        description: ``,
+        title: `Kevia Cloud`,
+        description: `Kevia's corner of the internet.`,
         author: `jhamPac`,
-        url: "https://kevia.me",
+        url: "https://www.kevia.me",
         image: "./static/rGreen.png",
+        twitterUsername: `@keviaDotMe`,
     },
     plugins: [
         `gatsby-plugin-react-helmet`,

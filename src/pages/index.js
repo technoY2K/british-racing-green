@@ -162,41 +162,47 @@ export default function X() {
                                 this design system has been very challenging but
                                 enjoyable.
                             </p>
-                            <p>
-                                I'm working on{" "}
-                                <a
-                                    href="https://www.telebu.gg"
-                                    target="_blank"
-                                    rel="noreferrer"
-                                >
-                                    telebugg
-                                </a>
-                                , The FRIENDLY softwaring engineering Q & A
-                                website for the 21st century. The project is
-                                still early Phase I v0.0.1
-                            </p>
-                            <p>
-                                I'm learning{" "}
-                                <a
-                                    href="https://www.haskell.org/"
-                                    target="_blank"
-                                    rel="noreferrer"
-                                >
-                                    haskell
-                                </a>
-                                .
-                            </p>
-                            <p>
-                                I'm building my own cardano stake{" "}
-                                <a
-                                    href="https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node"
-                                    target="_blank"
-                                    rel="noreferrer"
-                                >
-                                    pool
-                                </a>
-                                .
-                            </p>
+                            <ul style={{ textAlign: "left" }}>
+                                <li>
+                                    <p>
+                                        building{" "}
+                                        <a
+                                            href="https://www.telebu.gg"
+                                            target="_blank"
+                                            rel="noreferrer"
+                                        >
+                                            telebugg
+                                        </a>
+                                        , The FRIENDLY softwaring engineering Q
+                                        & A website for the 21st century. The
+                                        project is still early Phase I v0.0.1
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        learning{" "}
+                                        <a
+                                            href="https://www.haskell.org/"
+                                            target="_blank"
+                                            rel="noreferrer"
+                                        >
+                                            haskell
+                                        </a>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        building a cardano stake{" "}
+                                        <a
+                                            href="https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node"
+                                            target="_blank"
+                                            rel="noreferrer"
+                                        >
+                                            pool
+                                        </a>
+                                    </p>
+                                </li>
+                            </ul>
                         </Pluto>
                     </Column>
                     <Column>

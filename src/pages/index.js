@@ -94,20 +94,20 @@ export default function X() {
                                     <h3>Reading</h3>
                                     <li>
                                         <a
-                                            href="https://www.amazon.sg/Post-Corona-Opportunity-Scott-Galloway/dp/1787634817"
+                                            href="https://en.wikipedia.org/wiki/Basic_Economics"
                                             target="_blank"
                                             rel="noreferrer"
                                         >
-                                            Post Corona
+                                            Basic Economics
                                         </a>
                                     </li>
                                     <li>
                                         <a
-                                            href="https://g.co/kgs/KzBW3J"
+                                            href="https://en.wikipedia.org/wiki/Mona_Lisa_Overdrive"
                                             target="_blank"
                                             rel="noreferrer"
                                         >
-                                            Inner Engineering
+                                            Mona Lisa Overdrive
                                         </a>
                                     </li>
                                 </ul>
@@ -174,6 +174,28 @@ export default function X() {
                                 , The FRIENDLY softwaring engineering Q & A
                                 website for the 21st century. The project is
                                 still early Phase I v0.0.1
+                            </p>
+                            <p>
+                                I'm learning{" "}
+                                <a
+                                    href="https://www.haskell.org/"
+                                    target="_blank"
+                                    rel="noreferrer"
+                                >
+                                    haskell
+                                </a>
+                                .
+                            </p>
+                            <p>
+                                I'm building my own cardano stake{" "}
+                                <a
+                                    href="https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node"
+                                    target="_blank"
+                                    rel="noreferrer"
+                                >
+                                    pool
+                                </a>
+                                .
                             </p>
                         </Pluto>
                     </Column>

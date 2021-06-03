@@ -103,11 +103,11 @@ export default function X() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://en.wikipedia.org/wiki/Mona_Lisa_Overdrive"
+                                            href="https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)"
                                             target="_blank"
                                             rel="noreferrer"
                                         >
-                                            Mona Lisa Overdrive
+                                            The Three-Body Problem
                                         </a>
                                     </li>
                                 </ul>
@@ -192,9 +192,9 @@ export default function X() {
                                 </li>
                                 <li>
                                     <p>
-                                        building a cardano stake{" "}
+                                        running a cardano stake{" "}
                                         <a
-                                            href="https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node"
+                                            href="https://adapools.org/pool/5694bb13ac6c404f9bfbefc41cbf956df315c44c6648f39dd43e4368"
                                             target="_blank"
                                             rel="noreferrer"
                                         >

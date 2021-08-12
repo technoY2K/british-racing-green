@@ -103,11 +103,11 @@ export default function X() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)"
+                                            href="https://shermin.net/token-economy-book/"
                                             target="_blank"
                                             rel="noreferrer"
                                         >
-                                            The Three-Body Problem
+                                            Token Economy
                                         </a>
                                     </li>
                                 </ul>
@@ -192,14 +192,15 @@ export default function X() {
                                 </li>
                                 <li>
                                     <p>
-                                        running a cardano stake{" "}
+                                        Participating in the 2nd cohort of the
                                         <a
-                                            href="https://adapools.org/pool/5694bb13ac6c404f9bfbefc41cbf956df315c44c6648f39dd43e4368"
+                                            href="https://plutus-pioneer-program.readthedocs.io/en/latest/plutus_pioneer_program.html"
                                             target="_blank"
                                             rel="noreferrer"
                                         >
-                                            pool
+                                            Plutus Pioneer Program
                                         </a>
+                                        .
                                     </p>
                                 </li>
                             </ul>

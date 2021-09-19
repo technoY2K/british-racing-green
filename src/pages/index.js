@@ -103,11 +103,11 @@ export default function X() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://shermin.net/token-economy-book/"
+                                            href="https://en.wikipedia.org/wiki/Ubik"
                                             target="_blank"
                                             rel="noreferrer"
                                         >
-                                            Token Economy
+                                            Ubik
                                         </a>
                                     </li>
                                 </ul>
@@ -115,11 +115,11 @@ export default function X() {
                                     <h3>Listening to</h3>
                                     <li>
                                         <a
-                                            href="https://twitter.com/citygirltime?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                                            href="https://en.wikipedia.org/wiki/La_Femme_(band)"
                                             target="_blank"
                                             rel="noreferrer"
                                         >
-                                            City Girl
+                                            La Femme
                                         </a>
                                     </li>
                                     <li>
@@ -153,14 +153,13 @@ export default function X() {
                                 ). We're using React for the UI, a quasi custom
                                 implementation of flux for state management,
                                 webpack as our bundler all backed by a Perl API.
-                                We are currently working on building a unified
-                                component design system for consistency for
-                                teams to use across the whole company. The tech
-                                used to build the design system is storybook for
-                                development and Lerna to manage all the
-                                packages/components as a monorepo. Working on
-                                this design system has been very challenging but
-                                enjoyable.
+                                A common shared component library is used across
+                                multiple teams to build a consistent and unified
+                                user interface. The tools used to build the
+                                design system are webpack, storybook and Lerna
+                                to manage all the packages/components as a
+                                monorepo. Working on this design system has been
+                                very challenging but enjoyable.
                             </p>
                             <ul style={{ textAlign: "left" }}>
                                 <li>
@@ -173,9 +172,6 @@ export default function X() {
                                         >
                                             telebugg
                                         </a>
-                                        , The FRIENDLY softwaring engineering Q
-                                        & A website for the 21st century. The
-                                        project is still early Phase I v0.0.1
                                     </p>
                                 </li>
                                 <li>
@@ -192,7 +188,7 @@ export default function X() {
                                 </li>
                                 <li>
                                     <p>
-                                        Participating in the 2nd cohort of the
+                                        participated in the 2nd cohort of the{" "}
                                         <a
                                             href="https://plutus-pioneer-program.readthedocs.io/en/latest/plutus_pioneer_program.html"
                                             target="_blank"
@@ -200,7 +196,18 @@ export default function X() {
                                         >
                                             Plutus Pioneer Program
                                         </a>
-                                        .
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        my claim to{" "}
+                                        <a
+                                            href="https://github.com/input-output-hk/plutus-pioneer-program/pull/31"
+                                            target="_blank"
+                                            rel="noreferrer"
+                                        >
+                                            FAME
+                                        </a>
                                     </p>
                                 </li>
                             </ul>

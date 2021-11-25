@@ -103,11 +103,11 @@ export default function X() {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://en.wikipedia.org/wiki/Ubik"
+                                            href="https://en.wikipedia.org/wiki/Snow_Crash"
                                             target="_blank"
                                             rel="noreferrer"
                                         >
-                                            Ubik
+                                            Snow Crash
                                         </a>
                                     </li>
                                 </ul>
@@ -115,11 +115,11 @@ export default function X() {
                                     <h3>Listening to</h3>
                                     <li>
                                         <a
-                                            href="https://en.wikipedia.org/wiki/La_Femme_(band)"
+                                            href="https://www.darude.com/"
                                             target="_blank"
                                             rel="noreferrer"
                                         >
-                                            La Femme
+                                            Darude
                                         </a>
                                     </li>
                                     <li>
@@ -166,11 +166,11 @@ export default function X() {
                                     <p>
                                         building{" "}
                                         <a
-                                            href="https://www.telebu.gg"
+                                            href="https://cnftsweets.com/"
                                             target="_blank"
                                             rel="noreferrer"
                                         >
-                                            telebugg
+                                            CNFTSweets
                                         </a>
                                     </p>
                                 </li>
@@ -182,7 +182,7 @@ export default function X() {
                                             target="_blank"
                                             rel="noreferrer"
                                         >
-                                            haskell
+                                            Haskell
                                         </a>
                                     </p>
                                 </li>
@@ -234,14 +234,19 @@ export default function X() {
                                 site is hosted on Netlify.
                             </p>
                             <p>
-                                I built it during this crazy Covid-19 pandemic.
-                                This is absolutely surreal what is going on
-                                right now. What a crazy time we live in. The
-                                whole city is shutdown. Anyway I had some time
-                                on my hands so I just went ahead and built this.
-                                I always wanted to update my personal site but
-                                procrastinated for a very long time. Alright
-                                take care and be safe.
+                                This site was created during the Covid-19
+                                pandemic in 2020. Life on this planet at that
+                                moment in time was surreal. Busy cities were
+                                desolate and grocery store shelves were empty.
+                                There were riots in the streets casued by pent
+                                up anxiety from the pandemic lockdowns and
+                                racial tensions in America. The leader of one of
+                                the world's most powerful country was being
+                                ruled by a man who embodied the characteristics
+                                of the typical billionaire villain you would see
+                                in comic books. I always wanted to update my
+                                personal site so I guess you can say I had some
+                                time on my hands. Alright take care and be safe.
                             </p>
                             <figure>
                                 <img src="https://media.giphy.com/media/3ornjPaUwr60cYjXuE/giphy.gif" />

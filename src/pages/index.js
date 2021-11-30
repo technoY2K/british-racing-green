@@ -238,7 +238,7 @@ export default function X() {
                                 pandemic in 2020. Life on this planet at that
                                 moment in time was surreal. Busy cities were
                                 desolate and grocery store shelves were empty.
-                                There were riots in the streets casued by pent
+                                There were riots in the streets caused by pent
                                 up anxiety from the pandemic lockdowns and
                                 racial tensions in America. The leader of one of
                                 the world's most powerful country was being

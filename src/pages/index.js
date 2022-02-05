@@ -166,11 +166,11 @@ export default function X() {
                                     <p>
                                         building{" "}
                                         <a
-                                            href="https://cnftsweets.com/"
+                                            href="https://plutus-pioneers.club/"
                                             target="_blank"
                                             rel="noreferrer"
                                         >
-                                            CNFTSweets
+                                            Plutus Pioneers Club
                                         </a>
                                     </p>
                                 </li>

@@ -2,16 +2,16 @@
   "name": "british-racing-green",
   "version": "0.0.0",
   "private": true,
-  "description": "The homepage of jhamPac",
+  "description": "The homepage of technoY2K",
   "keywords": [
     "gatsby"
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:jhamPac/british-racing-green.git"
+    "url": "git@github.com:technoY2K/british-racing-green.git"
   },
   "license": "MIT",
-  "author": "jhamPac <cloud@kevia.me>",
+  "author": "technoY2K <cloud@kevia.me>",
   "scripts": {
     "build": "gatsby build",
     "clean": "gatsby clean",

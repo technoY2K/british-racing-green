@@ -40,7 +40,7 @@ export default function X() {
                             <p>🌐</p>
                             <p>
                                 <a
-                                    href="https://twitter.com/keviaDotMe"
+                                    href="https://twitter.com/technoY2K"
                                     alt=""
                                     target="_blank"
                                     rel="noreferrer"
@@ -50,7 +50,7 @@ export default function X() {
                             </p>
                             <p>
                                 <a
-                                    href="https://github.com/jhamPac"
+                                    href="https://github.com/technoY2K"
                                     alt=""
                                     target="_blank"
                                     rel="noreferrer"
@@ -60,7 +60,7 @@ export default function X() {
                             </p>
                             <p>
                                 <a
-                                    href="https://stackoverflow.com/users/3276646/jhampac"
+                                    href="https://stackoverflow.com/users/3276646/technoY2K"
                                     alt=""
                                     target="_blank"
                                     rel="noreferrer"

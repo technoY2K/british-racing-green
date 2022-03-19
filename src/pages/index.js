@@ -164,18 +164,6 @@ export default function X() {
                             <ul style={{ textAlign: "left" }}>
                                 <li>
                                     <p>
-                                        building{" "}
-                                        <a
-                                            href="https://plutus-pioneers.club/"
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >
-                                            Plutus Pioneers Club
-                                        </a>
-                                    </p>
-                                </li>
-                                <li>
-                                    <p>
                                         learning{" "}
                                         <a
                                             href="https://www.haskell.org/"
